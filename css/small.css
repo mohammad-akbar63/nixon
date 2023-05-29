@@ -1,0 +1,130 @@
+@media only screen and (max-width:600px) {
+    section {
+        padding: 1rem;
+    }
+
+    /* home */
+
+    H1 {
+        font-size: 2rem;
+    }
+
+    H6 {
+        font-size: small;
+    }
+
+    p {
+        font-size: smaller !important;
+        text-transform: lowercase;
+        padding: 0.5rem !important;
+    }
+
+    .sub {
+        display: block;
+        position: relative;
+        width: 80%;
+        margin: 1rem auto;
+        border-radius: 5px;
+        text-align: center;
+    }
+
+    input {
+        text-align: center;
+        font-size: medium;
+    }
+
+    /* services */
+
+    .widgettitle {
+        font-size: large;
+        text-decoration: 2px solid underline;
+    }
+
+    .now {
+        margin: 0 0 0 5px;
+        font-size: small;
+    }
+
+    /* them */
+    #them {
+        padding: 0rem;
+    }
+
+    #them h6 {
+        padding: 0 0 0 5px;
+    }
+
+    .main-head {
+        padding: 1rem;
+    }
+
+    .main-head h2 {
+        font-size: larger;
+        margin-bottom: 0.5rem;
+    }
+
+    .heading {
+        padding: 1rem 4px;
+        font-size: large;
+    }
+
+    /* payment */
+    .payment-box {
+        margin: 0;
+        padding: 0;
+    }
+
+    .tan,
+    .blue {
+        display: block;
+    }
+
+    /* result */
+
+    .fa-2x {
+        display: inline-block;
+    }
+
+    .follow-box {
+        width: 90%;
+        display: block;
+        padding: 1rem;
+    }
+
+    .follow-img,
+    .follow-text {
+        width: 100%;
+        padding: 0.5rem;
+    }
+
+    .follow-button a {
+        width: 80%;
+        margin: 1rem auto;
+    }
+
+    .join-box {
+        width: 80%;
+        margin: auto;
+    }
+
+    /* about */
+    #about ul li {
+        padding: 0.5rem;
+        font-size: small;
+    }
+
+    .about-pera {
+        margin-left: 2rem;
+    }
+
+    h5 {
+        font-size: large;
+    }
+
+    /* top btn */
+    #myTopBtn {
+        padding: 8px;
+        right: 10px;
+        border-radius: 50%;
+    }
+}

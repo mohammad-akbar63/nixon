@@ -1,0 +1,33 @@
+@media only screen and (max-width:768px) {
+
+    /* counter */
+    .counter {
+        padding: 1rem;
+    }
+
+    .fa-2x {
+        font-size: 3rem;
+    }
+
+    .count-title {
+        font-size: 2rem;
+    }
+
+    .count-text {
+        font-size: 1rem;
+    }
+
+    /* follow */
+    #follow .follow-button,
+    .follow-button a {
+        display: block;
+        width: 100%;
+        margin: 1rem 0;
+    }
+
+    /* about */
+    .about-pera {
+        padding: 0;
+        margin-left: 3rem;
+    }
+}

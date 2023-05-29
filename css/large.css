@@ -1,0 +1,46 @@
+@media only screen and (max-width: 992px) {
+    #topbar {
+        display: none;
+    }
+
+    .nav-link {
+        padding: 0.5rem;
+    }
+
+    section {
+        padding: 2rem 1rem;
+    }
+
+    /* payment */
+    .grid-blue {
+        margin: 2rem auto;
+    }
+
+    /* follow */
+    .follow-box {
+        display: flex;
+        margin: 2rem auto;
+        padding: 2rem;
+        align-items: center;
+    }
+
+    .follow-img,
+    .follow-text {
+        width: 50%;
+    }
+
+    #join .join-box,
+    #join .main-head {
+        text-align: center;
+    }
+
+    /* about */
+    .about-pera {
+        padding: 1rem 3rem;
+    }
+
+    /* footer */
+    footer {
+        text-align: center;
+    }
+}
